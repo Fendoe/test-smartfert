@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
+### UI
+![image](https://github.com/Fendoe/test-smartfert/assets/5856568/0c97dcbd-8416-4d60-b989-3fa4c65fdf99)
+
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
